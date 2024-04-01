@@ -1,7 +1,7 @@
 {
   "Configurations": [
     {
-      "Version": "20240329.01",
+      "Version": "20240401.01",
       "URL": "https://raw.githubusercontent.com/markleavitt/VillagePalFirmware/main/VillagePal.ino.bin"
     }
   ]
